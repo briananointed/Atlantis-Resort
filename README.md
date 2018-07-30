@@ -3,7 +3,7 @@
 #### V1.0
 #### By **Brian Wachira**
 ## Description
-This is a web information system. It shows Atlantis Resort information such as<br/>Activities    Accomodation<br/>Contact info    Travel arrangements
+This is a web information system. It shows Atlantis Resort information such as<br/>Activities&nbsp;&nbsp;Accomodation<br/>Contact info&nbsp;&nbsp;Travel arrangements
 ## Setup/Installation Requirements
 Clone on terminal using **$git clone ---url---** or download zip and unzip it.
 open in terminal by typing **Atlantis-Resort** or double click it
